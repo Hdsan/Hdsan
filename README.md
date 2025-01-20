@@ -1,4 +1,4 @@
-<h1>Hudson Ferreira</h1> <h3>Atualmente cursando Bacharelado em Sistemas de Informações na IFMG Campus Sabará
+<h1>Hudson Ferreira</h1>
 <br>Desenvolvedor Full-Stack
 <br>NodeJs|NestJs|Express Vue Flutter
 <br>
